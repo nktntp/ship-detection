@@ -66,6 +66,7 @@ We can see that the model generally performs quite well on test data, with the e
 
 3. install dependencies from requirements.txt
 
+        pip3 install --upgrade pip
         pip3 install -r requirements.txt
 
 4. run inference.py by specifing flag "--input" and path to the data folder with images.
